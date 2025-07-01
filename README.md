@@ -1,0 +1,2 @@
+# libreOfficePlugins
+LibreOffice PLUGINS
