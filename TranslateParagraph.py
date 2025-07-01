@@ -1,3 +1,4 @@
+import uno, os, subprocess
 from deep_translator import GoogleTranslator
 
 
